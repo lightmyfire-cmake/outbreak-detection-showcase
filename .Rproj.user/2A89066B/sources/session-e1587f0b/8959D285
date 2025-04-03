@@ -1,0 +1,26 @@
+{
+    "id": "8959D285",
+    "path": "C:/Users/Илья/python_projects/outbreaks-detection/R/constants.R",
+    "project_path": "R/constants.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1743718263213.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "5,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1743718264,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1743718264831,
+    "read_only": false,
+    "read_only_alternatives": []
+}
